@@ -6,7 +6,6 @@ Anime Fortune CLI adalah utilitas command-line sederhana yang mencetak kutipan a
 - Menampilkan kutipan anime secara acak.
 - Menggunakan `cowsay` untuk membuat tampilan lebih menarik.
 - Dibangun dengan `commander.js` untuk manajemen CLI.
-- Cocok untuk pembelajaran dasar TypeScript dan pengelolaan argumen CLI.
 
 ## 🛠️ Instalasi
 Pastikan kamu sudah menginstal **Node.js** dan **cowsay** terlebih dahulu:
