@@ -42,7 +42,7 @@ node index.js -r
 ```sh
  ------------------------------------------------------------------------------------------
 < "Fear is not evil. It tells you what your weakness is. And once you know your weakness,
-you can become stronger as well as kinder." - Fairy Tail >
+   you can become stronger as well as kinder." - Fairy Tail >
  ----------------------------------------------------------
         \   ^__^
          \  (oo)\_______
