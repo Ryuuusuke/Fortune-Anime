@@ -63,6 +63,3 @@ Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutu
 ## 🤝 Kontribusi
 Jika kamu ingin berkontribusi, silakan buat pull request atau laporkan masalah melalui **Issues**.
 
----
-Happy coding! 🚀
-
