@@ -1,0 +1,22 @@
+{
+  "name": "anime-fortune",
+  "version": "1.0.0",
+  "description": "fortune anime words",
+  "license": "ISC",
+  "author": "ryuuusuke",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tsc ./src/index.ts ; node ./src/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.13",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.7"
+  }
+}
